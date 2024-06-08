@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, We are dedicated team of developers and designers working on web and software applications.</h1>
+<h1 align="center">Hi 👋, My Name Is Nouman and I am Fullstack Engineer, and CEO Multisyn.tech.</h1>
 <h3 align="center">We are specilized in MVP development. We aim to create the best possible initial version of your product to validate the product idea in the market.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnoumanarif&label=Profile%20views&color=0e75b6&style=flat" alt="mrnoumanarif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnoumanarif" alt="mrnoumanarif" /></a> </p>
-
-- 🔭we are currently working on [Learning Management System](https://thenextstep.ai)
 
 - 👯 we are looking to collaborate on **Any**
 
@@ -19,7 +17,7 @@
 
 - 📄 Know about our working experiences [https://multisyn.tech/](https://multisyn.tech/)
 
-- ⚡ Fun fact **"Did you know our team of web and software developers once turned a complex coding challenge into a friendly office competition? It ended with a surprise prize for the most creative solution and some great laughs!"**
+- ⚡ Fun fact **"Did you know our team of web and software Engineers once turned a complex coding challenge into a friendly office competition? It ended with a surprise prize for the most creative solution and some great laughs!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
