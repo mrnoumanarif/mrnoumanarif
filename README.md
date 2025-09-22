@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name Is Nouman and I am a Fullstack Engineer, and CEO of Multisyn.tech.</h1>
+<h1 align="center">Hi 👋, My Name Is Nouman and I am a Fullstack Engineer, and CTO of Multisyn.tech.</h1>
 <h3 align="center">We specialize in MVP development. Our goal is to launch a market-ready version of your product to validate its potential.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnoumanarif&label=Profile%20views&color=0e75b6&style=flat" alt="mrnoumanarif" /> </p>
