@@ -65,11 +65,10 @@ APIs/Data: GraphQL, REST, Snowflake,
 
 - 👯 open to collaboration on **any meaningful project**  
 - 👨‍💻 Explore my work at [https://multisyn.tech](https://multisyn.tech)  
-- 📝 Check out  blogs on [(https://multisyn.tech/blogs)]([https://multisyn.tech](https://multisyn.tech/blogs))  
-- 💬 Ask us about stacks like:  
+- 📝 Check out  blogs on [(https://multisyn.tech/blogs](https://multisyn.tech](https://multisyn.tech/blogs))  
   - **MEAN, MERN, LAMP, Python ML, Data Science, Web Solutions**  
 - 📫 Contact: **info@multisyn.tech**  
-- 📄 Learn more: [https://multisyn.tech](https://multisyn.tech)  
+- 📄 Learn more: [(https://multisyn.tech)]([https://multisyn.tech)  
 
 
 <h3 align="left">Connect with me:</h3>
