@@ -1,33 +1,47 @@
-<h1 align="center">Fractional CTO | MVP Expert | Full Stack Dev | React Native| node.js Next.js Nest.Js React.js PHP</h1>
-<h3 align="center">With over 8 years of hands-on experience building scalable MVPs and production-grade apps, I help founders, early-stage startups, and growing businesses turn product ideas into real, working solutions, even if you don’t have a tech background.
+<h1 align="left">Fractional CTO | MVP Expert | Full Stack Dev | React Native | Node.js | Next.js | Nest.js | React.js | PHP</h1>
 
-I work with one of the top MVP development ISO-9001 Certified companies in Pakistan to offer high-performance digital products using modern stacks like React Native, React JS, Next JS, Nest.js, Express Node.js, Flutter, and MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, and Azure Cloud.
+<h3 align="left">
+With over 8 years of hands-on experience building scalable MVPs and production-grade apps, I help founders, early-stage startups, and growing businesses turn product ideas into real, working solutions — even if you don’t have a tech background.
+</h3>
 
-Whether you need a SaaS MVP, a mobile app, or a full product roadmap, I guide you through every step from idea validation to launch with clarity, speed, and minimal overhead.
+<h3 align="left">
+I work with one of the top ISO-9001 certified MVP development companies in Pakistan to deliver high-performance digital products using modern stacks like React Native, React.js, Next.js, Nest.js, Express, Node.js, Flutter, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, and Azure.
+</h3>
 
-My Core Services
-✔️MVP Development – Go from idea to live product in just 30–60 days
-✔️Fractional CTO – Technical strategy for non-tech founders
-✔️Web App Development – MERN stack, Django, Laravel
-✔️Mobile App Development – Flutter, React Native, cross-platform builds
-✔️Startup Tech Consulting – Feature planning, scalability, GTM advice
-✔️Team Building – Dev hiring, mentoring, and scaling your tech team
+<h3 align="left">
+Whether you need a SaaS MVP, a mobile app, or a complete product roadmap, I guide you through every step from idea validation to launch with clarity, speed, and minimal overhead.
+</h2>
 
-My Tech Stack
-✔️Frontend: React.js, Next.js, Vue.js, Tailwind
-✔️Backend: Node.js, Express.js, Django, Laravel, Nest.js
-✔️Mobile: Flutter, React Native, Kotlin
-✔️Cloud & DevOps: AWS, GCP, Docker, CI/CD
-✔️Databases: MongoDB, PostgreSQL, Firebase
-✔️APIs/Data: GraphQL, REST, Snowflake, Redshift
+<h2 align="left">My Core Services</h2>
+<ul align="left">
+  <li><b>MVP Development:</b> Go from idea to live product in 30–60 days</li>
+  <li><b>Fractional CTO:</b> Technical strategy for non-tech founders</li>
+  <li><b>Web App Development:</b> MERN stack, Django, Laravel</li>
+  <li><b>Mobile App Development:</b> Flutter, React Native, cross-platform builds</li>
+  <li><b>Startup Tech Consulting:</b> Feature planning, scalability, GTM advice</li>
+  <li><b>Team Building:</b> Developer hiring, mentoring, and scaling your tech team</li>
+</ul>
 
-Why Work With Me?
-✔️ Over 100 MVPs & apps launched
-✔️ 5-star rated across all projects
-✔️ Excellent with non-technical clients, no jargon, just results
-✔️ Apps helped raise pre-seed and seed funding for clients
-✔️ Proven ability to lead projects end-to-end, from mockups to launch
-✔️ Focused on user experience, performance, and long-term scale
+<h2 align="left">My Tech Stack</h2>
+<ul align="left">
+  <li><b>Frontend:</b> React.js, Next.js, Vue.js, Tailwind</li>
+  <li><b>Backend:</b> Node.js, Express.js, Django, Laravel, Nest.js</li>
+  <li><b>Mobile:</b> Flutter, React Native, Kotlin</li>
+  <li><b>Cloud & DevOps:</b> AWS, GCP, Docker, CI/CD</li>
+  <li><b>Databases:</b> MongoDB, PostgreSQL, Firebase</li>
+  <li><b>APIs/Data:</b> GraphQL, REST, Snowflake, Redshift</li>
+</ul>
+
+<h2 align="left">Why Work With Me?</h2>
+<ul align="left">
+  <li>Over 100 MVPs & apps successfully launched</li>
+  <li>5-star rated across all projects</li>
+  <li>Excellent with non-technical clients — no jargon, just results</li>
+  <li>Apps helped clients raise pre-seed and seed funding</li>
+  <li>Proven ability to lead projects end-to-end — from mockups to launch</li>
+  <li>Focused on user experience, performance, and long-term scalability</li>
+</ul>
+
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnoumanarif&label=Profile%20views&color=0e75b6&style=flat" alt="mrnoumanarif" /> </p>
@@ -50,45 +64,4 @@ Why Work With Me?
   </a>
 </p>
 
----
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <!-- Tools icons retained (your full list goes here) --> </p>
-
----
-
-### 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrnoumanarif&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrnoumanarif&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnoumanarif&" alt="GitHub Streak" /></p>
-
----
-
-### 🔥 Contribution Graph
-
-<p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mrnoumanarif&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" /></p>
-
----
-
-### 📊 Metrics Summary (optional - requires setup)
-
-<!-- To enable this, follow setup at https://github.com/lowlighter/metrics -->
-<!--
-<p><img src="https://raw.githubusercontent.com/mrnoumanarif/mrnoumanarif/main/github-metrics.svg" alt="GitHub Metrics" /></p>
--->
-
----
-
-### 📬 Manual Contribution Summary (optional)
-
-<!-- Update manually or with GitHub Actions -->
-<!--
-### 📊 My GitHub Summary:
-- 💬 Comments posted: 123+
-- 🧵 Discussions participated: 40+
-- 🔧 PRs merged: 80+
-- 📁 Open source repos maintained: 12
--->
