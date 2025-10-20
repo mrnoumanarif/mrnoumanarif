@@ -1,20 +1,18 @@
-<h1 align="center">Hi 👋, My Name Is Nouman and I am a Fullstack Engineer, and CTO of Multisyn.tech.</h1>
+<h1 align="center">Fractional CTO | MVP Expert | Full Stack Dev | React Native| node.js Next.js Nest.Js React.js PHP</h1>
 <h3 align="center">We specialize in MVP development. Our goal is to launch a market-ready version of your product to validate its potential.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnoumanarif&label=Profile%20views&color=0e75b6&style=flat" alt="mrnoumanarif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrnoumanarif" alt="GitHub Trophies" /></a> </p>
 
-- 👯 We're open to collaboration on **any meaningful project**  
-- 👨‍💻 Explore our work at [https://multisyn.tech](https://multisyn.tech)  
-- 📝 Check out our blogs on [https://multisyn.tech](https://multisyn.tech)  
+- 👯 open to collaboration on **any meaningful project**  
+- 👨‍💻 Explore my work at [https://multisyn.tech](https://multisyn.tech)  
+- 📝 Check out  blogs on [(https://multisyn.tech/blogs)]([https://multisyn.tech](https://multisyn.tech/blogs))  
 - 💬 Ask us about stacks like:  
   - **MEAN, MERN, LAMP, Python ML, Data Science, Web Solutions**  
 - 📫 Contact: **info@multisyn.tech**  
 - 📄 Learn more: [https://multisyn.tech](https://multisyn.tech)  
-- ⚡ Fun fact: _"Our devs once turned a tough bug hunt into an epic office challenge—with pizza and prizes!"_
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
