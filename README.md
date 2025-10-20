@@ -42,6 +42,21 @@ Whether you need a SaaS MVP, a mobile app, or a complete product roadmap, I guid
   <li>Focused on user experience, performance, and long-term scalability</li>
 </ul>
 
+My Core Services
+MVP Development – Go from idea to live product in just 30–60 days
+Fractional CTO – Technical strategy for non-tech founders
+Web App Development – MERN stack, Django, Laravel
+Mobile App Development – Flutter, React Native, cross-platform builds
+Startup Tech Consulting – Feature planning, scalability, GTM advice
+Team Building – Dev hiring, mentoring, and scaling your tech team
+
+My Tech Stack
+Frontend: React.js, Next.js, Vue.js, Tailwind
+Backend: Node.js, Express.js, Django, Laravel, Nest.js
+Mobile: Flutter, React Native, Kotlin
+Cloud & DevOps: AWS, GCP, Docker, CI/CD
+Databases: MongoDB, PostgreSQL, Firebase
+APIs/Data: GraphQL, REST, Snowflake,
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnoumanarif&label=Profile%20views&color=0e75b6&style=flat" alt="mrnoumanarif" /> </p>
